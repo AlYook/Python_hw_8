@@ -1,0 +1,11 @@
+{
+    "orders": [
+        {
+            "item": "\u043f\u0440\u0438\u043d\u0442\u0435\u0440",
+            "quantity": 12,
+            "price": 6700,
+            "buyer": "Ivanov I.I",
+            "date": "10.02.2023"
+        }
+    ]
+}
